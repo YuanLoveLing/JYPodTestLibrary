@@ -1,0 +1,16 @@
+PODS:
+  - JYPrivatePro (0.1.0)
+
+DEPENDENCIES:
+  - JYPrivatePro (from `../`)
+
+EXTERNAL SOURCES:
+  JYPrivatePro:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JYPrivatePro: 4c9e55ce8ce37834fe8f80e0bed76080021f6aa8
+
+PODFILE CHECKSUM: 9e7a7ce0ea1015560076360134972863921f9610
+
+COCOAPODS: 1.5.2

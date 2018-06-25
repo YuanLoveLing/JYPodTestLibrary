@@ -7,6 +7,7 @@
 //
 
 #import "JYViewController.h"
+#import "JYLog.h"
 
 @interface JYViewController ()
 
@@ -20,10 +21,10 @@
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
-- (void)didReceiveMemoryWarning
-{
-    [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
+- (void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event {
+    JYLog *log = [[JYLog alloc] init];
+    [log sayHello];
+    
 }
 
 @end

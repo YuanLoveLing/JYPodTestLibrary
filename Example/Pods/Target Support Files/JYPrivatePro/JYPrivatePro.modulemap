@@ -1,0 +1,6 @@
+framework module JYPrivatePro {
+  umbrella header "JYPrivatePro-umbrella.h"
+
+  export *
+  module * { export * }
+}
