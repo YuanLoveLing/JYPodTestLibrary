@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'JYPrivatePro_Example' do
+  pod 'JYPrivatePro', :path => '../'
+
+  target 'JYPrivatePro_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
