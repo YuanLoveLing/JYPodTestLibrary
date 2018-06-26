@@ -7,36 +7,19 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'JYPrivatePro'
-  s.version          = '0.1.0'
-  s.summary          = '我只是想写个demo测试下'
+s.name             = 'JYPrivatePro'
+s.version          = '0.1.0'
+s.summary          = '一个演示用的项目'
+s.description      = <<-DESC
+用于演示 CocoaPods 的运作原理
+DESC
 
-# This description is used to generate tags and improve search results.
-#   * Think: What does it do? Why did you write it? What is the focus?
-#   * Try to keep it short, snappy and to the point.
-#   * Write the description between the DESC delimiters below.
-#   * Finally, don't worry about the indent, CocoaPods strips it!
+s.homepage         = 'https://github.com/YuanLoveLing'
+s.license          = { :type => 'MIT', :file => 'LICENSE' }
+s.author           = { 'jinzhiyuan' => '736010695@qq.com' }
+s.source           = { :git => 'https://github.com/YuanLoveLing/JYPodTestLibrary.git', :tag => s.version.to_s }
 
-  s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
+s.ios.deployment_target = '8.0'
 
-  s.homepage         = 'https://github.com'
-  # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
-  s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { '736010695@qq.com' => '736010695@qq.com' }
-  s.source           = { :git => 'https://github.com/YuanLoveLing/JYPodTestLibrary.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
-
-  s.ios.deployment_target = '8.0'
-
-  s.source_files = 'JYPrivatePro/Classes/**/*'
-  
-  # s.resource_bundles = {
-  #   'JYPrivatePro' => ['JYPrivatePro/Assets/*.png']
-  # }
-
-  # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
+s.source_files = 'JYPrivatePro/Classes/**/*'
 end
