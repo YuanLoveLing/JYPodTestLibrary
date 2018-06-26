@@ -37,7 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		2424FDE7B04835F0AB205D08 /* JYPrivatePro.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = JYPrivatePro.podspec; path = ../JYPrivatePro.podspec; sourceTree = "<group>"; };
+		2424FDE7B04835F0AB205D08 /* JYPrivatePro.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = JYPrivatePro.podspec; path = ../JYPrivatePro.podspec; sourceTree = "<group>"; };
 		3B21B30CCFFE2B16715D7022 /* Pods-JYPrivatePro_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JYPrivatePro_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-JYPrivatePro_Tests/Pods-JYPrivatePro_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* JYPrivatePro_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JYPrivatePro_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -63,8 +63,8 @@
 		7F189B8259F314B81CD9CE73 /* Pods_JYPrivatePro_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_JYPrivatePro_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8028E3E5E40A2EF0D076E2D6 /* Pods-JYPrivatePro_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JYPrivatePro_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-JYPrivatePro_Tests/Pods-JYPrivatePro_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		93071DD4FC8E9CD357014E7E /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		B1E5605F37FA71ABEFD47FDB /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		93071DD4FC8E9CD357014E7E /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		B1E5605F37FA71ABEFD47FDB /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		CC339115F01B3CEC3BCA38B1 /* Pods-JYPrivatePro_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JYPrivatePro_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-JYPrivatePro_Example/Pods-JYPrivatePro_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		E5686FEA81D89A9A93EFD43B /* Pods_JYPrivatePro_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_JYPrivatePro_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */

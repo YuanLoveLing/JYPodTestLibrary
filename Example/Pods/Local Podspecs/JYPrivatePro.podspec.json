@@ -1,18 +1,18 @@
 {
   "name": "JYPrivatePro",
   "version": "0.1.0",
-  "summary": "A short description of JYPrivatePro.",
+  "summary": "我只是想写个demo测试下",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/736010695@qq.com/JYPrivatePro",
+  "homepage": "https://github.com",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "736010695@qq.com": "jinzhiyuan@ppdai.com"
+    "736010695@qq.com": "736010695@qq.com"
   },
   "source": {
-    "git": "https://github.com/736010695@qq.com/JYPrivatePro.git",
+    "git": "https://github.com/YuanLoveLing/JYPodTestLibrary.git",
     "tag": "0.1.0"
   },
   "platforms": {

@@ -2,15 +2,15 @@ PODS:
   - JYPrivatePro (0.1.0)
 
 DEPENDENCIES:
-  - JYPrivatePro (from `../`)
+  - JYPrivatePro (from `../JYPrivatePro.podspec`)
 
 EXTERNAL SOURCES:
   JYPrivatePro:
-    :path: "../"
+    :path: "../JYPrivatePro.podspec"
 
 SPEC CHECKSUMS:
-  JYPrivatePro: 4c9e55ce8ce37834fe8f80e0bed76080021f6aa8
+  JYPrivatePro: aff07f0fbc2c3874d823d3859366bf1946e7e0f3
 
-PODFILE CHECKSUM: 9e7a7ce0ea1015560076360134972863921f9610
+PODFILE CHECKSUM: 05660a707fccab26b96f6138139fd6b24c95e124
 
 COCOAPODS: 1.5.2
