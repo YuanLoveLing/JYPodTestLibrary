@@ -7,7 +7,6 @@
 //
 
 #import "JYViewController.h"
-#import "JYLog.h"
 
 @interface JYViewController ()
 
@@ -18,13 +17,12 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
-}
-
-- (void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event {
-    JYLog *log = [[JYLog alloc] init];
-    [log sayHello];
+	
+    // 第一次提交
     
+    // 第二次提交
+    
+    // 第三次提交
 }
 
 @end

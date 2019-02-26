@@ -247,6 +247,9 @@
 				LastUpgradeCheck = 0720;
 				ORGANIZATIONNAME = "736010695@qq.com";
 				TargetAttributes = {
+					6003F589195388D20070C39A = {
+						DevelopmentTeam = 39NW5M5D42;
+					};
 					6003F5AD195388D20070C39A = {
 						TestTargetID = 6003F589195388D20070C39A;
 					};
@@ -485,6 +488,7 @@
 			baseConfigurationReference = CC339115F01B3CEC3BCA38B1 /* Pods-JYPrivatePro_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 39NW5M5D42;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "JYPrivatePro/JYPrivatePro-Prefix.pch";
 				INFOPLIST_FILE = "JYPrivatePro/JYPrivatePro-Info.plist";
@@ -500,6 +504,7 @@
 			baseConfigurationReference = 62A088556B53E83C2C9AEF31 /* Pods-JYPrivatePro_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 39NW5M5D42;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "JYPrivatePro/JYPrivatePro-Prefix.pch";
 				INFOPLIST_FILE = "JYPrivatePro/JYPrivatePro-Info.plist";
